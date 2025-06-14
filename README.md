@@ -4,9 +4,9 @@ This repository features an Excel dataset titled amazon_prime_users.xlsx, design
 📁 Dataset Highlights:
 The dataset may include the following attributes:
 
-👤 User Information – Age, gender, region, and subscription details
-⏱️ Engagement Metrics – Watch time, frequency, and preferred content genres
-💳 Subscription Behavior – Payment methods, renewal history, and usage trends
+- 👤 User Information – Age, gender, region, and subscription details
+- ⏱️ Engagement Metrics – Watch time, frequency, and preferred content genres
+- 💳 Subscription Behavior – Payment methods, renewal history, and usage trends
 
 🔍 What You Can Practice:
 📊 Advanced Excel Techniques
